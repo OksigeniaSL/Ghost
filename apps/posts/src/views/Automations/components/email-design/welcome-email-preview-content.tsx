@@ -1,4 +1,4 @@
-import CoverImage from '../../../assets/images/email-design-user-image.jpg';
+import CoverImage from '../../assets/email-design-user-image.jpg';
 import React from 'react';
 import {cn} from '@tryghost/shade/utils';
 import {resolveAllColors, resolveButtonCorners, resolveFontFamily, resolveImageCorners} from './design-utils';
